@@ -28,15 +28,6 @@ Are there any dependencies? Are there things to keep in mind when testing this c
 This code depends on the database given: 2170-w22. You need to keep in mind that the login information as well as all user information is dependent on what is held within that database. 
 For example, one cannot login with their own credentials unless those credentials are in the login table. 
 
-## Running the tests [OPTIONAL]
-
-Explain how to run any specific tests for this website
-Explain what these tests test and why
-
-```
-Give examples
-```
-
 ## Citations/Attributions
 1. Include citations in this format:
 Author/Website URL, Content used from the source, Year published (if available), and Date accessed.
